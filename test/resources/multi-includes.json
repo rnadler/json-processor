@@ -1,0 +1,6 @@
+{
+    "baseString" : "zero",
+    "include1" : "level1",
+    "include2" : "level2",
+    "baseNull" : null
+}

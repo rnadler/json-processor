@@ -1,0 +1,12 @@
+{
+    "level1" : {
+	"level1String" : "1",
+	"level1Boolean" : true,
+        "level2" : {
+	   "include" : "level2"
+        },
+	"level1Array" : [
+	    "item0", "item1"
+	]
+    }
+}

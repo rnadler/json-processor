@@ -1,0 +1,8 @@
+{
+    "baseString" : "zero",
+    "level1" : {
+	"include" : "level1",
+	"level1Float" : 88.7
+    },
+    "baseNull" : null
+}
