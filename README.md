@@ -3,6 +3,8 @@
 
 Process a JSON file
 
+Example project for: [Exploring Clojure (and FP vs OOP)](https://bobonmedicaldevicesoftware.com/blog/2019/01/27/exploring-clojure-and-fp-vs-oop/)
+
 ## Ruby Usage
 
     $ ./ruby/json_processor.rb input_file [output_file]
